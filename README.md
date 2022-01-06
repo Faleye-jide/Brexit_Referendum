@@ -1,1 +1,2 @@
 # Brexit_Referendum
+The project is focused on the conducting anlysis on the factors that contributed to the exit of Britian from the EU. I gathered socio-economic dataset and integrated it with the voting pattern. From my extensive analysis, a lot of young people leaned on the staying the EU while people aged 65 above supported to leave EU. Furthermore, people with low education level also shows a large effect on the leave claim. I carried a cluster analysis that shows the regions that voted for Leave and Remain.
